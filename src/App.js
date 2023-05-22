@@ -69,7 +69,7 @@ function App() {
           </div>
           <small>
             <a
-              href="https://github.com/kimjaydot/v-weather-app"
+              href="https://github.com/kimjaydot/weather-react-app"
               target="_blank"
               rel="noreferrer"
             >
